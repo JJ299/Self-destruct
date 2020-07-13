@@ -1,4 +1,10 @@
+* {
+	background-color: #3785BC;
+}
+
 .main {
-	background-color: blue;
+	margin-top: 10rem;
+	margin-left: 25rem;
 	color: white;
+	font-size: 5rem;
 }
